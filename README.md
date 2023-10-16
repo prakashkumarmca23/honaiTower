@@ -10,7 +10,7 @@ To view the Hanoi Tower simulation, follow these steps:
 2. Open the HTML file in your preferred web browser.
 3. Click the "Make Move" button to observe the step-by-step movement of disks across the pegs.
 
-You can also access and run the program [here](https://prakashkumarmca23.github.io/hanoi-tower/).
+You can also access and run the program [here](https://prakashkumarmca23.github.io/honaiTower/).
 
 ## Future Improvements
 

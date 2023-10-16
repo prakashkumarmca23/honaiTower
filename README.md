@@ -2,7 +2,7 @@
 
 This project is a simple web-based implementation of the classic Towers of Hanoi puzzle, showcasing the recursive movement of disks across three pegs.
 
-## Running the Program
+## Steps t0 Run
 
 To view the Hanoi Tower simulation, follow these steps:
 

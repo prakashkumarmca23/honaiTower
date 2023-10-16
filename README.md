@@ -16,7 +16,6 @@ You can also access and run the program [here](https://prakashkumarmca23.github.
 
 - Enhance the visual representation by incorporating animations for disk movements.
 - Provide additional user controls to manually interact with the puzzle.
-- Implement a user-friendly interface with clear instructions for the puzzle-solving process.
-- Optimize the codebase for improved performance and efficiency.
+
 
 
